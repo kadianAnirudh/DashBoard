@@ -14,4 +14,4 @@
 
 <p>  • The project uses tools from syncFusion, such as calendars, charts, graphs and tooltips. </p>
 
-<p>  • The link to view a video demo of this project is : <a href="https://www.youtube.com/watch?v=SNF5mdqseSk"> Portfolio video demo </a> </p>
+<p>  • The link to view a video demo of this project is : <a href="https://www.youtube.com/watch?v=SNF5mdqseSk"> Dashboard video demo </a> </p>
